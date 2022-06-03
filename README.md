@@ -12,6 +12,11 @@ For example, to search for any UFO Sightings that occured on January 11th, 2010 
 
 #### Images
 
+    **Image 1**
+  ![image]([https://github.com/lucymccanna/UFOs/blob/main/static/images/UFOhomepage.png])
+  
+      **Image 1**
+  ![image]([https://github.com/lucymccanna/UFOs/blob/main/static/images/UFOhomepage.png])
 
 
 ## Summary
