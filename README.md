@@ -10,14 +10,16 @@ Users may apply the filters in any order. There are placeholder examples in each
 
 For example, to search for any UFO Sightings that occured on January 11th, 2010 in Forida the user would enter '1/11/2010' in the Date search box and 'fl' in the State search box (see Image 3). 
 
-#### Images
+### Images
 
    **Image 1**
   ![image](https://github.com/lucymccanna/UFOs/blob/ff22d5d55e3e84191928c4e6862170003341c72c/static/images/UFOhomepage.png)
   
-      **Image 1**
-  ![image]([https://github.com/lucymccanna/UFOs/blob/main/static/images/UFOhomepage.png])
+   **Image 2**
+  ![image](https://github.com/lucymccanna/UFOs/blob/c554c73a4c605e9497b74db5650eab0d6af2c270/static/images/image2.png)
 
+   **Image 3**
+  ![image](https://github.com/lucymccanna/UFOs/blob/c554c73a4c605e9497b74db5650eab0d6af2c270/static/images/image3.png)
 
 ## Summary
 
